@@ -1,41 +1,228 @@
+Package: com.haoict.facebooknoads
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debs/com.haoict.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 254880
+MD5sum: 6692ed5e700ff7a69b550e66ace1300c
+SHA1: b0cc88c1f168cc4560e8e20e75b57a33348cfbbb
+SHA256: cb1b066c08fb4c1403b5f3f83e7c2ea5222ec7738e327eecb6be2ffa0d63cf2f
+Section: Tweaks
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ .
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Facebook No Ads
+
+Package: com.haoict.instanoads
+Version: 2.9.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.haoict.instanoads_2.9.1_iphoneos-arm.deb
+Size: 352106
+MD5sum: 0a697b54c95bbec0226f7e0b8ef2eb70
+SHA1: 82009da14b00ab6c9215f34e793e32745599aabf
+SHA256: abe10b830565d468784e6e386f2541c8b9d37104e0c6b067bfc6d729a4233a14
+Section: Tweaks
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Change log: https://github.com/haoict/instagram-no-ads/releases
+ .
+ Features:
+ - Remove Ads (New Feeds and Stories)
+ - Can save media (Photos, Videos, IGTV, Stories, Reels, press and hold to show download option)
+ - Can Save HD Profile Picture (Press and hold to show download option)
+ - Show like count
+ - Determine if user is following you
+ - Disable DM seen and Story seen receipt
+ - Unlimited Replay Direct Messages
+ - Like confirmation
+ - Add App lock (use faceid/touchid to unlock)
+ - Support iOS 12 - 14 & latest Instagram version (>= 178.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Instagram No Ads
+
+Package: com.haoict.messengernoads
+Version: 3.9.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 972
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)
+Filename: ./debs/com.haoict.messengernoads_3.9.0_iphoneos-arm.deb
+Size: 537310
+MD5sum: c7ce8038f31109051fa208d8af53fc52
+SHA1: 32bef4c251b40aa59ed3c051867bc0a5c6f9def1
+SHA256: fc95a25570581a5611a7f82a25ba65e6db82d2654a0221126956349186410c6c
+Section: Tweaks
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 10 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Messenger No Ads
+
+Package: com.haoict.redditnoads
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.haoict.redditnoads_1.4.0_iphoneos-arm.deb
+Size: 218368
+MD5sum: d07ce1bbdbd1316545723258635ae8b7
+SHA1: c04cfbf29f450fbcc68912a918f95040cabf6cc7
+SHA256: 20c9a8583a248ac0e39e9646f851f170078ae5f612f1d856968eedfb4d81ec36
+Section: Tweaks
+Description: Free & Open Source Tweak for Reddit
+ Free & Open Source Tweak for Reddit
+ Change log: https://github.com/haoict/redditnoads/releases
+ .
+ Features:
+ - Remove Ads (posts and comments)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Reddit version
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Reddit No Ads
+
+Package: com.haoict.tiktokgod
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.haoict.tiktokgod_2.1.0_iphoneos-arm.deb
+Size: 47232
+MD5sum: 4475ba0c8bdc169941a814d73fd809e8
+SHA1: 84a67860629ed4dd8a609052d4e380a9fd64e843
+SHA256: f1f6194b785bf9f62b287f9d6c852aed0c037a5a7e721337305f571d35a6b559
+Section: Tweaks
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ .
+ Features:
+ - Remove Ads
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Support iOS 12 - 14 & latest TikTok version
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: TikTok God
+
+Package: com.haoict.twitternoads
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.haoict.twitternoads_1.4.0_iphoneos-arm.deb
+Size: 106844
+MD5sum: a8e19398774c9dc01af66d5b5bb9d685
+SHA1: fbc4e2660926837faae9d6b1498a58e307106899
+SHA256: ff5047c6a0d2a6357262a1c7cd9f9bbf4979af7a1d9d4b6093a089b4fa7f30b8
+Section: Tweaks
+Description: Free & Open Source Tweak for Twitter
+ Free & Open Source Tweak for Twitter
+ Change log: https://github.com/haoict/twitter-no-ads/releases
+ .
+ Features:
+ - Remove Ads
+ - Remove Fleets
+ - Hide News and Trending posts in search tab
+ - Hide who to follow section
+ - Can Save Video (long press on video to save)
+ - Skip analytic URL when open a link
+ - Lightweight
+ - Support iOS 12 - 14 & latest Twitter app
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Twitter No Ads
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://cote.eu.org/depictions/?p=com.supermamon.newpackage
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://cote.eu.org/depictions/?p=com.supermamon.oldpackage
-
-Package: com.haoict.facebooknoads_1.4.1_iphoneos-arm
-Version: 1.4.1
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
 Section: Tweaks
-Maintainer: Haoict <>
-Depends:
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.debcom.haoict.facebooknoads_1.4.1_iphoneos-arm.deb
-Size: 248
-MD5sum: 6692ed5e700ff7a69b550e66ace1300c
-Description: Facebook no ads
-Name: Facebook No Ads
-Author: Haoict <>
-Depiction: https://cote.eu.org/depictions/?p=com.haoict.facebooknoads_1.4.1_iphoneos-arm
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
