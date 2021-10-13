@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://cote.eu.org/depictions/?p=com.supermamon.oldpackage
 
+Package: com.haoict.facebooknoads_1.4.1_iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Haoict <>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.debcom.haoict.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 248
+MD5sum: 6692ed5e700ff7a69b550e66ace1300c
+Description: Facebook no ads
+Name: Facebook No Ads
+Author: Haoict <>
+Depiction: https://cote.eu.org/depictions/?p=com.haoict.facebooknoads_1.4.1_iphoneos-arm
